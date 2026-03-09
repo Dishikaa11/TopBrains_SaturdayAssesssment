@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\bin\Debug\net10.0\StudentPerformanceAnalysisSystem.exe
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\bin\Debug\net10.0\StudentPerformanceAnalysisSystem.deps.json
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\bin\Debug\net10.0\StudentPerformanceAnalysisSystem.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\bin\Debug\net10.0\StudentPerformanceAnalysisSystem.dll
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\bin\Debug\net10.0\StudentPerformanceAnalysisSystem.pdb
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\StudentPerformanceAnalysisSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\StudentPerformanceAnalysisSystem.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\StudentPerformanceAnalysisSystem.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\StudentPerformanceAnalysisSystem.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\StudentPerformanceAnalysisSystem.dll
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\refint\StudentPerformanceAnalysisSystem.dll
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\StudentPerformanceAnalysisSystem.pdb
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\StudentPerformanceAnalysisSystem.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\Assessment\07-03-26\StudentPerformanceAnalysisSystem\StudentPerformanceAnalysisSystem\obj\Debug\net10.0\ref\StudentPerformanceAnalysisSystem.dll
